@@ -20,6 +20,6 @@ I'm a Frontend developer with my ♥ in [React](https://reactjs.org).
 
 <br/>
 
-<a href="https://linkedin.gonzalopozzo.com">
-<img align="left" alt="Gonzalo Pozzo LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+<a href="https://www.linkedin.com/in/francisco-santiago-pardo/m">
+<img align="left" alt="Francisco Pardo LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
